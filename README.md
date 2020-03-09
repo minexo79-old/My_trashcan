@@ -1,6 +1,6 @@
 ![size](https://img.shields.io/github/repo-size/minexo79/old_things)
 ![pip support](https://img.shields.io/pypi/pyversions/discord.py)
-![pip version](https://img.shields.io/pypi/v/discord.py?color=red) 
+![pip version](https://img.shields.io/pypi/v/discord.py)
 ![Arduino](https://img.shields.io/badge/Arduino-DHT11-yellowgreen)  
 ![commit](https://img.shields.io/github/last-commit/minexo79/old_things)
 
