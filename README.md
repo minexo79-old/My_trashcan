@@ -1,4 +1,4 @@
-![size](https://img.shields.io/github/repo-size/minexo79/old_things)
+﻿![size](https://img.shields.io/github/repo-size/minexo79/old_things)
 ![pip support](https://img.shields.io/pypi/pyversions/discord.py)
 ![pip version](https://img.shields.io/pypi/v/discord.py)
 ![Arduino](https://img.shields.io/badge/Arduino-DHT11-yellowgreen)  
@@ -18,4 +18,6 @@
 + thefuckpoem
     + `幹詩一籮筐 (HTML/CSS)`
 + DHT11
-    + `Arduino DHT11溫溼度監控實作 (C/C++)`
+    + `Arduino DHT11溫溼度監控實作 (Arduino)`
++ C_plusplus_project
+    + `腦袋撞到的專案(C++)`
