@@ -22,4 +22,4 @@
 + DHT11_MQTT_ESP8266
     + `DHT11溫溼度監控與MQTT應用 (ESP8266)`
 + C_plusplus_project
-    + `腦袋撞到的專案(C++)`
+    + `腦袋撞到的東西(C++)`
