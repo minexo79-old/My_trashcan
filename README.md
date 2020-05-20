@@ -1,10 +1,11 @@
-﻿![size](https://img.shields.io/github/repo-size/minexo79/old_things)
+![size](https://img.shields.io/github/repo-size/minexo79/my_trashcan)
 ![pip support](https://img.shields.io/pypi/pyversions/discord.py)
 ![pip version](https://img.shields.io/pypi/v/discord.py)
 ![Arduino](https://img.shields.io/badge/Arduino-DHT11-yellowgreen)
-![commit](https://img.shields.io/github/last-commit/minexo79/old_things)
+![Arduino](https://img.shields.io/badge/Arduino-PIR-red)
+![commit](https://img.shields.io/github/last-commit/minexo79/my_trashcan)
 
-這裡存放之前的專案：
+存放著之前的專案：
 ---
 
 + Hakkaman
@@ -21,5 +22,5 @@
     + `Arduino DHT11溫溼度監控實作 (Arduino)`
 + DHT11_MQTT_ESP8266
     + `DHT11溫溼度監控與MQTT應用 (ESP8266)`
-+ C_plusplus_project
-    + `腦袋撞到的東西(C++)`
++ Arduino_PIR
+    + `紅外線人體感測 (Arduino)`
